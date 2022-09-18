@@ -1,0 +1,9 @@
+main: com.pezibaer.MinecraftEconomy
+name: MinecraftEconomy
+version: 1
+
+commands:
+  heal:
+    description:  Heals your player
+    aliases:  h
+    usage: /heal
